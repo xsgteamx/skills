@@ -11,7 +11,7 @@ This repository contains skills inspired by or adapted from third-party open-sou
 
 ### Adapted skills
 
-- `skills/productivity/grill-me/SKILL.md`
-- `skills/productivity/grilling/SKILL.md`
+- `productivity/grill-me/SKILL.md`
+- `productivity/grilling/SKILL.md`
 
 These files are Chinese adaptations for personal ChatGPT + Codex collaborative development workflows. They are not exact translations of the upstream files.
